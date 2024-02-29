@@ -1,0 +1,15 @@
+Package: luci-app-passwall2
+Version: 1.26-2
+Depends: libc, coreutils, coreutils-base64, coreutils-nohup, curl, ip-full, libuci-lua, lua, luci-compat, luci-lib-jsonc, resolveip, tcping, xray-core, v2ray-geoip, v2ray-geosite, unzip, haproxy, shadowsocks-libev-ss-local, shadowsocks-libev-ss-redir, shadowsocks-rust-sslocal, shadowsocks-rust-ssserver, shadowsocksr-libev-ssr-local, shadowsocksr-libev-ssr-redir, simple-obfs, sing-box, v2ray-plugin, luci-lua-runtime
+Source: feeds/passwall2/luci-app-passwall2
+SourceName: luci-app-passwall2
+Section: luci
+SourceDateEpoch: 1708625930
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 218051
+Filename: luci-app-passwall2_1.26-2_all.ipk
+Size: 219091
+SHA256sum: afc1194f83230675d9313a05debca906d8c4a173d2b0669e327600ada50fbd34
+Description:  LuCI support for PassWall 2
+
